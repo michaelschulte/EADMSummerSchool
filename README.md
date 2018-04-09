@@ -2,6 +2,7 @@
 
 Material for the EADM Summer School 2018 in Salzburg, Austria
 
-- workshop: slides and material 
+- workshops: slides and material 
 - keynotes: slides
 - literature: things to read
+- general: info, updates
