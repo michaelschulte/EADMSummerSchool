@@ -2,6 +2,6 @@
 
 - Mousetracking (Kieslich / Wulff)
 - Reproducible Science (Scheel)
-- fMRI (Hawelka)
+- Eye-Tracking (Hawelka)
 - Decisions from Experience (Wulff)
 
