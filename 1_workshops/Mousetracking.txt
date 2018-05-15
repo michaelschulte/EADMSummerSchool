@@ -23,7 +23,7 @@ Tuesday (Pascal)
 	15-16 Participate in experiments
 
 Wednesday (Pascal & Dirk)
-9-10 Interactive introduction to R 					Dirk ?
+9-10 Interactive introduction to R 				Dirk ?
 10-12 Mousetrap R package intro (1h) + practical (1h)		Pascal
 Importing
 inspecting data
