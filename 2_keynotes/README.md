@@ -10,6 +10,6 @@ In this talk, I am concerned with three seemingly conflicting sets of findings, 
 
 As preparation please read: 
 
-Hertwig, R., Hogarth, R. M., & Lejarraga, T. (2018). [Experience and description: exploring two paths to knowledge](../3_literature/Herwtig2018.pdf). Current Directions in Psychological Science. Advance online publication.
+Hertwig, R., Hogarth, R. M., & Lejarraga, T. (2018). [Experience and description: exploring two paths to knowledge](../3_literature/Hertwig2018.pdf). Current Directions in Psychological Science. Advance online publication.
 
 - Mirjam Jenny https://www.mpib-berlin.mpg.de/en/staff/mirjam-jenny
