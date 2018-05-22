@@ -1,4 +1,4 @@
-## EADM Summer School in Salzburg: Mouse-tracking Workshop
+## EADM Summer School in Salzburg: Mouse-tracking 
 
 Preparations
 	Read book chapters (Kieslich et al., 2018; Wulff et al., 2018)
