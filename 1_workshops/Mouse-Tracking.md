@@ -2,24 +2,24 @@
 
 ### Preparations
 * Read book chapters (Kieslich et al., 2018; Wulff et al., 2018)
-* Paragraph with question to answer with mousetracking (communicate restrictions in terms of setup etc) (@Michael: what do you mean with this?)
+* Paragraph with question to answer with mousetracking (communicate restrictions in terms of setup etc) (@Michael: what do you mean with this? -> provided that participants do their own study there should be restrictions for setup (eg 2 boxes) and number of trials etc)
 
 ### Goal
 Design, build, pre-register, run, and analyze a mouse-tracking experiment in small groups (of 4 to 5 people).  
 
 ### Monday (Pascal)
-* 14:00-15:00 General introduction to mouse-tracking (@Michael: workshop starts at 13:00 or 14:00?)
-* 15:00-16:00 Introduction to task
+* 13:00-14:00 General introduction to mouse-tracking 
+* 14:00-16:00 Introduction to task
   * What experiments are considered (2AFC, stimuli, etc.)
   * Examples
 * 16:00-17:00 Develop experimental design conceptually
 * 17:00-18:00 Present experimental design in plenum 
 
 ### Tuesday (Pascal)
-* 09:00-10:30 OpenSesame & mousetrap-os introduction (@Michael: I need a minimum of 1.5 hours for this)
+* 09:00-10:30 OpenSesame & mousetrap-os introduction
 * 10:30-12:00 Build experiment
 * 13:00-14:00 Build experiment
-* 14:00-15:00 Register experiment at OSF (@Michael: relation to Anne Scheel's workshop - should this already happen at this point?)
+* 14:00-15:00 Register experiment at OSF (@Michael: relation to Anne Scheel's workshop - should this already happen at this point? -> O agree that this is Anne's point but a pre-reg after collecting data is bad style :( )
 * 15:00-16:00 Participate in experiments
 
 ### Wednesday (Pascal & Dirk)
@@ -37,7 +37,3 @@ Design, build, pre-register, run, and analyze a mouse-tracking experiment in sma
 * 14:30-16:00 Trajectory types (30min) + practical (1h) (Dirk)
   * Clustering
   * Prototypes
- 
-### Thursday (Scheel)
-* Upload of pre-registered experiment + data to ??? (@Michael: should this stay here?)
-
