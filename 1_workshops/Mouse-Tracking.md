@@ -2,40 +2,42 @@
 
 ### Preparations
 * Read book chapters (Kieslich et al., 2018; Wulff et al., 2018)
-* Paragraph with question to answer with mousetracking (communicate restrictions in terms of setup etc) WHAT DOES THIS MEAN? WHO ADDED THIS POINT
+* Paragraph with question to answer with mousetracking (communicate restrictions in terms of setup etc) (@Michael: what do you mean with this?)
 
 ### Goal
-Design, build, pre-register, run, and analyze a mouse-racking experiment in small groups of (4 to 5 people).  
+Design, build, pre-register, run, and analyze a mouse-tracking experiment in small groups (of 4 to 5 people).  
 
 ### Monday (Pascal)
-* 14-15 General introduction to mouse-tracking
-* 15-16 Introduction to task
-  * Overview general experiment outline (2AFC, stimuli, etc.)
+* 14:00-15:00 General introduction to mouse-tracking (@Michael: workshop starts at 13:00 or 14:00?)
+* 15:00-16:00 Introduction to task
+  * What experiments are considered (2AFC, stimuli, etc.)
   * Examples
-* 16-17 Develop experimental design
-* 17-18 Present experimental design in plenum 
+* 16:00-17:00 Develop experimental design conceptually
+* 17:00-18:00 Present experimental design in plenum 
 
 ### Tuesday (Pascal)
-* 9-10 OpenSesame & mousetrap-os intro
-* 10-12 Build experiment
-* 13-14 Build experiment
-* 14-15 Register experiment at OSF
-* 15-16 Participate in experiments
+* 09:00-10:30 OpenSesame & mousetrap-os introduction (@Michael: I need a minimum of 1.5 hours for this)
+* 10:30-12:00 Build experiment
+* 13:00-14:00 Build experiment
+* 14:00-15:00 Register experiment at OSF (@Michael: relation to Anne Scheel's workshop - should this already happen at this point?)
+* 15:00-16:00 Participate in experiments
 
 ### Wednesday (Pascal & Dirk)
-* 9-10 Interactive introduction to R (Dirk)
-* 10-12 Mousetrap R package intro (1h) + practical (1h) (Pascal)
-  * Importing
-  * Inspecting data
+* 09:00-10:00 General R introduction (Dirk)
+* 10:00-12:00 Mousetrap R package introduction (1h) + practical (1h) (Pascal)
+  * Data import
   * Preprocessing
-  * Comparing trial-level indices
-  * Visualizations
-* 13:00-14:30 Advanced analyses I (30min) + practical (1h) (Pascal)
-  * Temporal analyses (tbd)
-  * Angle regression (tbd)
-* 14:30-16:00 Advanced analyses II (30min) + practical (1h) (Dirk)
-  * Trajectory types
+  * Inspecting data
+  * Trial-level indices
+  * Temporal analyses
+* 13:00-14:30 Visualizations (30min) + practical (1h) (Pascal)
+  * Aggregate trajectories
+  * Riverbed
+  * Heatmaps
+* 14:30-16:00 Trajectory types (30min) + practical (1h) (Dirk)
+  * Clustering
+  * Prototypes
  
 ### Thursday (Scheel)
-* Upload of pre-registered experiment + data to ???
+* Upload of pre-registered experiment + data to ??? (@Michael: should this stay here?)
 
