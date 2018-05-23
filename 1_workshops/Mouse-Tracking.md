@@ -19,7 +19,7 @@ Design, build, pre-register, run, and analyze a mouse-tracking experiment in sma
 * 09:00-10:30 OpenSesame & mousetrap-os introduction
 * 10:30-12:00 Build experiment
 * 13:00-14:00 Build experiment
-* 14:00-15:00 Register experiment at OSF (@Michael: relation to Anne Scheel's workshop - should this already happen at this point? -> O agree that this is Anne's point but a pre-reg after collecting data is bad style :( )
+* 14:00-15:00 Register experiment at OSF
 * 15:00-16:00 Participate in experiments
 
 ### Wednesday (Pascal & Dirk)
