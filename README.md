@@ -2,10 +2,10 @@
 
 Material for the EADM Summer School 2018 in Salzburg, Austria
 
-- 0_general: info, updates
-- 1_workshops: slides and material for workshops 
-- 2_keynotes: slides for keynotes
-- 3_literature: things to read
+- [0_general](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general): info, updates
+- [1_workshops](https://github.com/michaelschulte/EADMSummerSchool/tree/master/1_workshops): slides and material for workshops 
+- [2_keynotes](https://github.com/michaelschulte/EADMSummerSchool/tree/master/2_keynotes): slides for keynotes
+- [3_literature](https://github.com/michaelschulte/EADMSummerSchool/tree/master/3_literature): things to read
 - Groups.md: Groups for workshops and introduction of keynote speakers 
 
 # General Schedule
