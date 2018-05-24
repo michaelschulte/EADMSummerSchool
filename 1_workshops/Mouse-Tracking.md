@@ -6,13 +6,14 @@ Design, build, pre-register, run, and analyze a mouse-tracking experiment in sma
 ### Types of experiments considered
 To facilitate the creation of the experiments during the workshop and to make them suitable for an investigation via mouse-tracking, they should meet the following criteria:
 * In the experiment, participants complete a number of trials that involve decisions of the same structure
-* In each trial, participants have to decide between two options by clicking on the corresponding button (two-alternative forced choice task)
+* In each trial, participants have to decide between two options by clicking on the corresponding button (two-alternative forced choice task, 2AFC)
 * Between trials, the stimulus to be decided upon varies (usually) and / or the two response categories
 * The stimulus (and/or the response options - in case they vary) should be simple (e.g., a single word, a picture)
 
 ### Preparations
-* Read book chapters (Kieslich et al., 2018; Wulff et al., 2018)
-* Think about an example experiments (meeting the requirements outlined above)
+* Read book chapters (Kieslich et al., 2018)
+* Outline two example experiments in your group (meeting the requirements outlined above) and describe them in a paragraph
+* Upload your ideas in one file name 'GroupX.doc' (where X is your group number) onto OSF [Michael add link]  
 
 ### Monday (Pascal)
 * 13:00-14:00 General introduction to mouse-tracking 
