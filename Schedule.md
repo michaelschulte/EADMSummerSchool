@@ -6,7 +6,7 @@
 |10-11|Schulte-Mecklenbeck, Kühberger||||||				
 |11-12|||||||				
 |12-13|Lunch|Lunch|	Lunch|	Lunch|	Lunch|	Lunch|
-|13-14|Kieslich|Kieslich+Wulff|Kieslich+Wulff|Scheel|Wulff|Presentations|	
+|13-14|Kieslich|Kieslich|Kieslich+Wulff|Scheel|Wulff|Presentations|	
 |14-15|||||||				
 |15-16|||||||				
 |16-17||Keynote: Stewart|	Keynote: Fiedler |	Keynote: Hertwig|	Keynote: Jenny|| 	
