@@ -21,3 +21,12 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 |15-16|||||||				
 |16-17||Keynote: Stewart|	Keynote: Fiedler |	Keynote: Hertwig|	Keynote: Jenny|| 	
 |17-18||Meet the scientist|	Meet the scientist|	Meet the scientist|	Meet the scientist|	Dinner|
+
+# ToDos
+
+You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelschulte/EADMSummerSchool/tree/master/Groups.md). 
+
+- We will ask you to read a few papers in preparation. The number of papers is intentionally kept low so that you actually will read them! 
+- Each group will plan, register, setup, run, analyse and present an experiment using Mouse-Tracking. Most of this work will be done during the first three days of the summer school. Presentations will be on Saturday afternoon.
+- The groups (in a little different setup so that we have four instead of five groups) will introduce one of the keynote speakers. Group 1 + r.i.kodapanakkal will introduce Stewart; Group 2 + thomas.woiczyk -> Fiedler; Group 3 + agnieszka.kitkowska -> Hertwig); Group 4 + cathrin.schoedler -> Jenny
+
