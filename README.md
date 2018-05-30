@@ -15,7 +15,7 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 |09-10| Introduction | Kieslich | Kieslich + Wulff | Scheel | Hawelka | Wulff + Presentations|
 |10-11|Schulte-Mecklenbeck, Kühberger||||||				
 |11-12|||||||				
-|12-13|Lunch|Lunch|	Lunch|	Lunch|	Lunch|	Lunch|
+|12-13|Lunch|Lunch|	Lunch|	Lunch|	Lunch||
 |13-14|Kieslich|Kieslich+Wulff|Kieslich+Wulff|Scheel|Wulff||	
 |14-15|||||||				
 |15-16|||||||				
