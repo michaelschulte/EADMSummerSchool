@@ -1,7 +1,11 @@
 # EADM Summer School 2018 - Keynotes
 
-- [Neil Stewart](https://www.wbs.ac.uk/about/person/neil-stewart) 
-- [Susann Fiedler](https://www.coll.mpg.de/team/page/susann_fiedler)
+- [Neil Stewart](https://www.wbs.ac.uk/about/person/neil-stewart)
+ 
+## [Susann Fiedler](https://www.coll.mpg.de/team/page/susann_fiedler)
+### Prosocial Preferences in Intergroup Decision-Making
+
+Ingroup favoritism and discrimination against the outgroup are pervasive in social interactions. I will present a set of studies using eye-tracking technology to uncover the cognitive processes underlying the decision to be more generous to members of their own group relative to out-group members. In two studies, we find systematic differences in information search effort, specifically increased response times and number of fixations, and more inspected information when facing in-group vs. outgroup members, especially among “pro-social” individuals who value other’s outcomes more rather than less. Whereas individualistic decision makers invested relatively less effort into information search when decisions involved out-group members, those with pro-social value orientations showed more similar effort for in- and outgroup decisions. Implications for intergroup research and resolutions for intergroup conflict will be discussed.
 
 ## [Ralph Hertwig](https://www.mpib-berlin.mpg.de/en/staff/ralph-hertwig) 
 ### Human rationality: Three gaps and no funeral 
