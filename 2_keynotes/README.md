@@ -1,7 +1,30 @@
 # EADM Summer School 2018 - Keynotes
 
-- [Neil Stewart](https://www.wbs.ac.uk/about/person/neil-stewart)
- 
+## [Neil Stewart](https://www.wbs.ac.uk/about/person/neil-stewart)
+### Naturalistic multiattribute choice
+
+We study how people evaluate and aggregate the attributes of naturalistic
+choice objects, such as movies and food items.  Our approach applies
+theories of object representation in semantic memory research to large-scale
+crowd-sourced data, to recover multiattribute representations for common
+choice objects.  We then use standard choice experiments to test the
+predictive power of various decision rules for weighting and aggregating
+these multiattribute representations.  Our experiments yield three novel
+conclusions: 1.  Existing multiattribute decision rules, applied to object
+representations trained on crowd-sourced data, predict participant choice
+behavior with a high degree of accuracy; 2.  Contrary to prior work on
+multiattribute choice, weighted additive decision rules outperform heuristic
+rules in out-of- sample predictions; and 3.  The best performing decision
+rules utilize rich object representations with a large number of underlying
+attributes.  Our results have important implications for the study of
+multiattribute choice.
+
+As preparation please read:
+
+Bhatia, S., & Stewart, N.  (in press). [Naturalistic multiattribute choice](../3_literature/Bhatia2018.pdf). 
+Cognition.
+
+
 ## [Susann Fiedler](https://www.coll.mpg.de/team/page/susann_fiedler)
 ### Prosocial Preferences in Intergroup Decision-Making
 
