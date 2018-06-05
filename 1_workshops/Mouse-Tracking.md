@@ -11,7 +11,7 @@ To facilitate the creation of the experiments during the workshop and to make th
 * The stimulus (and/or the response options - in case they vary) should be simple (e.g., a single word, a picture)
 
 ### Preparations
-* Read book chapters (Kieslich et al., 2018)
+* Read book chapters [Kieslich et al., 2018](../3_literature/Kieslich2018.pdf)
 * Outline two example experiments in your group (meeting the requirements outlined above) and describe them in a paragraph
 * Upload your ideas in one file name 'GroupX.doc' (where X is your group number) onto OSF [Michael add link]  
 
