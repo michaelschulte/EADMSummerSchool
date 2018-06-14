@@ -1,17 +1,19 @@
 ## EADM Summer School in Salzburg: Eye-Tracking
 
-###Goal
+### Goal
+
 The workshop will provide a general overview of the research method “eye tracking” - including the following points. 
 
 ### What is going to happen
 
-- We will learn about the most important measures, such as 
- - fixation durations, fixation probabilities
- - scan paths 
- - pupil size 
--	and concepts, such as
- - the perceptual span
- - parafoveal preprocessing
+We will learn about the most important measures, such as 
+- fixation durations, fixation probabilities
+- scan paths 
+- pupil size 
+
+and concepts, such as
+- the perceptual span
+- parafoveal preprocessing
 
 -	We will consider and compare different options (and systems) 
  -	EyeLink
