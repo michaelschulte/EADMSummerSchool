@@ -19,7 +19,7 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 |14-15|||||||				
 |15-16|||||||				
 |16-17||Keynote: Stewart|	Keynote: Fiedler |	Keynote: Hertwig|	Keynote: Jenny|| 	
-|17-18||Meet the scientist|	Meet the scientist|	Meet the scientist|	Meet the scientist|	Dinner|
+|17-18|Drinks|Meet the scientist|	Meet the scientist|	Meet the scientist|	Meet the scientist|	Dinner|
 
 # ToDos
 
@@ -39,10 +39,15 @@ You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelsc
     - Group 3 + agnieszka.kitkowska -> Hertwig 
     - Group 4 + cathrin.schoedler -> Jenny
     
-The introductions should not last longer than 2-3 minutes. It is common to say a bit about the speakers CV, highlight places he/she has worked and than home in on the place he/she is working now. You might ad info on important contributions, personal andecdotes (the good ones only!). Please be aware that this is not your show but the keynote speakers' so keep it short and sweet.
+The introductions should not last longer than 2-3 minutes. It is common to say a bit about the speakers' CV, highlight places he/she has worked and than home in on the place he/she is working now. You might ad info on important contributions, personal anecdotes (the good ones only!). Please be aware that this is not your show but the keynote speakers' so keep it short and sweet.
 
 - Still a different setup of participants will meet with the keynote speakers after their lecture in our [MeetTheScientist](https://github.com/michaelschulte/EADMSummerSchool/tree/master/MeetTheScientist.md) session.
 
 - Each group will plan, register, setup, run, analyse and present an experiment using Mouse-Tracking. Most of this work will be done during the first three days of the summer school and we will introduce the details to you on the first morning. As preparation for this part please read [Kieslich et al., 2018](../3_literature/Kieslich2018.pdf). Presentations will be on Saturday afternoon.
 
 
+# EADM Summer School 2018 Disclaimer
+
+The EADM Summer School 2018 is jointly organized by [Michael Schulte-Mecklenbeck](http://www.schulte-mecklenbeck.com) from the [University of Bern](http://www.unibe.ch) and [Anton Kühberger](https://ccns.sbg.ac.at/people/kuehberger/) from the [University of Salzburg](http://www.sbg.ac.at). 
+
+The Summer School is possible through generous sponsoring of the [European Association of Decision Making (EADM)](http://www.eadm.eu). The coffee breaks are provided by the [Salzbuger Gesellschaft für Psychologie](https://www.uni-salzburg.at/index.php?id=29480).
