@@ -4,8 +4,6 @@
 
 Read...
 
-Hertwig, R., Barron, G., Weber, E. U., & Erev, I. (2004). Decisions from experience and the effect of rare events in risky choice. Psychological science, 15(8), 534-539.
-
 Hertwig, R., & Erev, I. (2009). The description–experience gap in risky choice. Trends in cognitive sciences, 13(12), 517-523.
 
 ### Goal
