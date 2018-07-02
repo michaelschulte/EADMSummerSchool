@@ -28,6 +28,7 @@ You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelsc
 - We will ask you to read a few papers in preparation. The number of papers is intentionally kept low so that you actually will read them!
 
     - For the Mouse-tracking workshop: [Kieslich et al., 2018](../3_literature/Kieslich2018.pdf)
+    - For the DfE workshop: [Hertwig et al.,2009](../3_literature/Hertwig2009.pdf)
     - For the Stewart keynote: Bhatia, S., & Stewart, N.  (in press). [Naturalistic multiattribute choice](../3_literature/Bhatia2018.pdf). Cognition.
     - For the Fiedler keynote: no reading!
     - For the Hertwig keynote: Hertwig, R., Hogarth, R. M., & Lejarraga, T. (2018). [Experience and description: exploring two paths to knowledge](../3_literature/Hertwig2018.pdf). Current Directions in Psychological Science. Advance online publication.
