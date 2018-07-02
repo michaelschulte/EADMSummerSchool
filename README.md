@@ -30,9 +30,9 @@ You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelsc
     - For the Mouse-tracking workshop: [Kieslich et al., 2018](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Kieslich2018.pdf)
     - For the DfE workshop: [Hertwig et al.,2009](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Hertwig2009.pdf)
     
-    - For the Stewart keynote: Bhatia, S., & Stewart, N.  (in press). [Naturalistic multiattribute choice](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Bhatia2018.pdf). Cognition.
+    - For the Stewart keynote: [Bhatia, et al, in press](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Bhatia2018.pdf). Cognition.
     - For the Fiedler keynote: no reading!
-    - For the Hertwig keynote: Hertwig, R., Hogarth, R. M., & Lejarraga, T. (2018). [Experience and description: exploring two paths to knowledge](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Hertwig2018.pdf). Current Directions in Psychological Science. Advance online publication.
+    - For the Hertwig keynote: [Hertwig et al., 2018](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Hertwig2018.pdf). Current Directions in Psychological Science. Advance online publication.
     - For the Jenny keynote: As preparation please also checkout the Harding center webpage on [fact-boxes](https://www.harding-center.mpg.de/en/fact-boxes) and [algorithms](https://www.harding-center.mpg.de/en/harding-center/projects-and-collaborations/algorithms-for-clinical-use). 
 
 - The groups (in a little different setup so that we have four instead of five groups) will introduce one of the keynote speakers. 
