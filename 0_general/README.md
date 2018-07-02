@@ -1,9 +1,9 @@
 ## EADM Summer School 2018 - General info
 
-- Map with important locations for the summer school: (General Map)[http://bit.ly/EADM_GeneralMap] (will be updated!)
+- Map with important locations for the summer school: [General Map](http://bit.ly/EADM_GeneralMap) (will be updated!)
 - We will meet on Monday, July 9th, 2018 at the 
 
-(Naturwissenschaftlicher Fakultät)[https://maps.google.com/?cid=15547375031286409277]
+[Naturwissenschaftlicher Fakultät](https://maps.google.com/?cid=15547375031286409277)
 
 Institut für Psychologie
 
