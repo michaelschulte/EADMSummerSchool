@@ -43,9 +43,9 @@ You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelsc
     
 The introductions should not last longer than 2-3 minutes. It is common to say a bit about the speakers' CV, highlight places he/she has worked and than home in on the place he/she is working now. You might ad info on important contributions, personal anecdotes (the good ones only!). Please be aware that this is not your show but the keynote speakers' so keep it short and sweet.
 
-- Still a different setup of participants will meet with the keynote speakers after their lecture in our [MeetTheScientist](https://github.com/michaelschulte/EADMSummerSchool/tree/master/MeetTheScientist.md) session.
+- Still a different setup of participants will meet with the keynote speakers after their lecture in our [MeetTheScientist](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general/MeetTheScientist.md) session.
 
-- Each group will plan, register, setup, run, analyse and present an experiment using Mouse-Tracking. Most of this work will be done during the first three days of the summer school and we will introduce the details to you on the first morning. As preparation for this part please read [Kieslich et al., 2018](../3_literature/Kieslich2018.pdf). Presentations will be on Saturday afternoon.
+- Each group will plan, register, setup, run, analyse and present an experiment using Mouse-Tracking. Most of this work will be done during the first three days of the summer school and we will introduce the details to you on the first morning. As preparation for this part please read [Kieslich et al., 2018](https://github.com/michaelschulte/EADMSummerSchool/blob/master/3_literature/Kieslich2018.pdf). Presentations will be on Saturday afternoon.
 
 
 # EADM Summer School 2018 Disclaimer
