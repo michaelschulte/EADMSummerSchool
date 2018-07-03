@@ -23,7 +23,7 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 
 # ToDos
 
-You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelschulte/EADMSummerSchool/tree/master/Groups.md). 
+You will work on your tasks in 5 groups [Groups.md](https://github.com/michaelschulte/EADMSummerSchool/blob/master/0_general/Groups.md). 
 
 - We will ask you to read a few papers in preparation. The number of papers is intentionally kept low so that you actually will read them!
 
