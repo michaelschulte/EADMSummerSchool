@@ -2,7 +2,7 @@
 
 Material for the EADM Summer School 2018 in Salzburg, Austria
 
-- [0_general](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general): infos, updates, [MeetTheScientist](https://github.com/michaelschulte/EADMSummerSchool/tree/master/MeetTheScientist.md), [Groups](https://github.com/michaelschulte/EADMSummerSchool/tree/master/Groups.md): Groups for workshops and introduction of keynote speakers 
+- [0_general](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general): infos, updates, [MeetTheScientist](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general/MeetTheScientist.md), [Groups](https://github.com/michaelschulte/EADMSummerSchool/tree/master/0_general/Groups.md): Groups for workshops and introduction of keynote speakers 
 - [1_workshops](https://github.com/michaelschulte/EADMSummerSchool/tree/master/1_workshops): slides and material for workshops 
 - [2_keynotes](https://github.com/michaelschulte/EADMSummerSchool/tree/master/2_keynotes): slides for keynotes
 - [3_literature](https://github.com/michaelschulte/EADMSummerSchool/tree/master/3_literature): things to read
