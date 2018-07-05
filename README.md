@@ -9,7 +9,7 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 
 # General Schedule
 
-| Time | Monday, 9.7.2018| Tuesday, 10.7.2018| Wednesday, 11.7.2018| Thursday, 12.7.2018| Friday, 13.7.2018| Saturday, 14.7.2018|
+| Time   | Monday, 9.7.2018| Tuesday, 10.7.2018| Wednesday, 11.7.2018| Thursday, 12.7.2018| Friday, 13.7.2018| Saturday, 14.7.2018|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 |09-10| Introduction | Kieslich | Kieslich + Wulff | Scheel | Hawelka | Wulff + Presentations|
 |10-11|Schulte, Kühberger||||||				
