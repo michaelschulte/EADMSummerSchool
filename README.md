@@ -18,8 +18,8 @@ Material for the EADM Summer School 2018 in Salzburg, Austria
 |13-14|Kieslich|Kieslich|Kieslich+Wulff|Scheel|Wulff||	
 |14-15|*MT*|*MT*|*MT*|*Repro*|*DfE*||				
 |15-16|||||||				
-|16-17||**Keynote: Stewart**|	**Keynote: Fiedler** |	Keynote: Hertwig**|	**Keynote: Jenny**|| 	
-|17-18|Drinks|Meet the scientist|	Meet the scientist|	Meet the scientist|	Meet the scientist|	Dinner|
+|16-17||**Keynote: Stewart**|	**Keynote: Fiedler** |	**Keynote: Hertwig**|	**Keynote: Jenny**|| 	
+|17-18|**Drinks**|Meet the scientist|	Meet the scientist|	Meet the scientist|	Meet the scientist|	**Dinner**|
 
 # ToDos
 
