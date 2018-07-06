@@ -15,8 +15,17 @@ To facilitate the creation of the experiments during the workshop and to make th
 * Outline two example experiments in your group (meeting the requirements outlined above) and describe them in a paragraph
 * Upload your ideas in one file name 'GroupX.doc' (where X is your group number) onto OSF [Project Ideas](https://osf.io/qzvfy/)  
 
+### Software
+
+* To create mouse-tracking experiments, please first install OpenSesame. It is available from http://osdoc.cogsci.nl/3.2/download/. To install the mousetrap plugin for OpenSesame, follow the instructions at https://github.com/pascalkieslich/mousetrap-os#installation. Please make sure to install the latest version of OpenSesame (3.2.4) and the development version of the mousetrap-os plugin.
+
+* To analyze mouse-tracking data using the mousetrap R package, first install R (https://www.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/). Afterwards, please run the following command in R to install the required packages:<br>`install.packages(c("readbulk","mousetrap"))`
+
+
 ### Monday (Pascal)
-* 13:00-14:00 General introduction to mouse-tracking 
+* 13:00-14:00 General introduction to mouse-tracking
+  * Paradigm and assumptions
+  * Common applications and analyses
 * 14:00-16:00 Introduction to task
   * What experiments are considered (2AFC, stimuli, etc.)
   * Examples
@@ -27,7 +36,7 @@ To facilitate the creation of the experiments during the workshop and to make th
 * 09:00-10:30 OpenSesame & mousetrap-os introduction
 * 10:30-12:00 Build experiment
 * 13:00-14:00 Build experiment
-* 14:00-15:00 Register experiment at OSF
+* 14:00-15:00 Register experiment at OSF (Michael)
 * 15:00-16:00 Participate in experiments
 
 ### Wednesday (Pascal & Dirk)
