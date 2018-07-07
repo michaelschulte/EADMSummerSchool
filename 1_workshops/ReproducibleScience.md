@@ -13,5 +13,5 @@ We will first take a brief look at the causes of the replication crisis and then
 - https://ask-open-science.org/: A Stackexchange-style forum for questions around open science
 - https://cos.io/rr/: Concise resource to learn about Registered Reports (click on the "Details & Workflow" tab)
 - [Curate Science](http://curatescience.org/) curates transparently reported studies and replications - a great tool if you want to quickly look up the evidence base for a popular effect. As an example, search for [ego depletion](http://curatescience.org/collections/ego-depletion.html)
-- http://rpsychologist.com/d3/pdist/: Invaluable tool for understanding **p**-values. Play around with it to see how **p**-values are distributed when there is vs. isn't a true effect!
-- [The **p**-hacker](https://www.shinyapps.org/apps/p-hacker/): Train your **p**-hacking skills!
+- http://rpsychologist.com/d3/pdist/: Invaluable tool for understanding *p*-values. Play around with it to see how *p*-values are distributed when there is vs. isn't a true effect!
+- [The *p*-hacker](https://www.shinyapps.org/apps/p-hacker/): Train your *p*-hacking skills!
