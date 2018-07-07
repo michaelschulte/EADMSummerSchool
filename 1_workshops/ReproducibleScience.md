@@ -8,6 +8,10 @@ The goal of this workshop is to show how we can future-proof our research with t
 We will first take a brief look at the causes of the replication crisis and then cover the basics of preregistration, data sharing, and reproducible analyses, including an introduction to the [Open Science Framework](http://osf.io) (OSF). Participants will gain basic knowledge of open science practices and associated techniques and tools to make their own research more transparent and reproducible.
 
 
-### 
-- Upload of data, code from pre-registered mousetracking experiment
-- short report with results
+# Helpful links: 
+- https://how-to-open.science/: A great collection of resources on all things open science
+- https://ask-open-science.org/: A Stackexchange-style forum for questions around open science
+- https://cos.io/rr/: Concise resource to learn about Registered Reports (click on the "Details & Workflow" tab)
+- [Curate Science](http://curatescience.org/) curates transparently reported studies and replications - a great tool if you want to quickly look up the evidence base for a popular effect. As an example, search for [ego depletion](http://curatescience.org/collections/ego-depletion.html)
+- http://rpsychologist.com/d3/pdist/: Invaluable tool for understanding **p**-values. Play around with it to see how **p**-values are distributed when there is vs. isn't a true effect!
+- [The **p**-hacker](https://www.shinyapps.org/apps/p-hacker/): Train your **p**-hacking skills!
