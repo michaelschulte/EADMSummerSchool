@@ -34,11 +34,11 @@ To facilitate the creation of the experiments during the workshop and to make th
 * 17:00-18:00 Present experimental design in plenum 
 
 ### Tuesday (Pascal)
-* 09:00-10:30 OpenSesame & mousetrap-os introduction
-* 10:30-12:00 Build experiment
-* 13:00-14:00 Build experiment
-* 14:00-15:00 Register experiment at OSF (Michael)
-* 15:00-16:00 Participate in experiments
+* 09:00-11:00 OpenSesame & mousetrap-os introduction
+* 11:00-12:00 Build experiment
+* 13:00-15:00 Build experiment
+* 15:00-16:00 Register experiment at OSF (Michael)
+* 18:00-19:00 Participate in experiments (Lab computers)
 
 ### Wednesday (Pascal & Dirk)
 * 09:00-10:00 General R introduction (Dirk)
