@@ -23,13 +23,14 @@ To facilitate the creation of the experiments during the workshop and to make th
 
 
 ### Monday (Pascal)
-* 13:00-14:00 General introduction to mouse-tracking
+* 13:00-14:30 General introduction to mouse-tracking
   * Paradigm and assumptions
-  * Common applications and analyses
-* 14:00-16:00 Introduction to task
-  * What experiments are considered (2AFC, stimuli, etc.)
-  * Examples
-* 16:00-17:00 Develop experimental design conceptually
+  * Implementation and analysis
+  * Previous applications
+* 14:30-15:00 Introduction to task
+  * Type of experiments considered (2AFC, stimuli, etc.)
+  * Your tasks during the workshop
+* 15:00-17:00 Develop experimental design conceptually
 * 17:00-18:00 Present experimental design in plenum 
 
 ### Tuesday (Pascal)
