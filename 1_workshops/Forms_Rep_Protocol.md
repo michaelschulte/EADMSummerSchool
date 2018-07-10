@@ -2,7 +2,7 @@
 
 https://osf.io/XXX/registrations/ 
 
-XXX = c86f7 for our OSF registration	
+XXX = qzvfy for our OSF registration	
 
 - **AsPredicted Registration: Eight questions derived from content recommended by AsPredicted.org.**    
 - Prereg Challenge:	This form was designed to guide users through a complete preregistration of a study and its analysis plan. It can be used as part of the Preregistration Challenge, or it can be registered without being entered into the competition.	
