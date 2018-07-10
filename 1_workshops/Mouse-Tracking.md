@@ -38,7 +38,7 @@ To facilitate the creation of the experiments during the workshop and to make th
 * 11:00-12:00 Build experiment
 * 13:00-15:00 Build experiment
 * 15:00-16:00 Register experiment at OSF (Michael)
-* 18:00-19:00 Participate in experiments (Lab computers)
+* 17:00-19:00 Participate in experiments (Lab computers)
 
 ### Wednesday (Pascal & Dirk)
 * 09:00-10:00 General R introduction (Dirk)
