@@ -55,3 +55,5 @@ To facilitate the creation of the experiments during the workshop and to make th
 * 14:30-16:00 Trajectory types (30min) + practical (1h) (Dirk)
   * Clustering
   * Prototypes
+  
+  Dirk's slides can be found [here](https://dwulff.github.io/EADM_SS2018/)
