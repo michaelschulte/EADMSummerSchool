@@ -21,15 +21,17 @@ To facilitate the creation of the experiments during the workshop and to make th
 
 * To analyze mouse-tracking data using the mousetrap R package, first install R (https://www.r-project.org/) and RStudio (https://www.rstudio.com/products/rstudio/download/). Afterwards, please run the following command in R to install the required packages:<br>`install.packages(c("readbulk","mousetrap"))`
 
+ 
+### Material
+
+Pascal's [slides](../4_presentations/)
+
+Dirk's [slides](https://dwulff.github.io/EADM_SS2018/)
+
 
 ### Monday (Pascal)
 * 13:00-14:30 General introduction to mouse-tracking
-  * Paradigm and assumptions
-  * Implementation and analysis
-  * Previous applications
 * 14:30-15:00 Introduction to task
-  * Type of experiments considered (2AFC, stimuli, etc.)
-  * Your tasks during the workshop
 * 15:00-17:00 Develop experimental design conceptually
 * 17:00-18:00 Present experimental design in plenum 
 
@@ -42,18 +44,7 @@ To facilitate the creation of the experiments during the workshop and to make th
 
 ### Wednesday (Pascal & Dirk)
 * 09:00-10:00 General R introduction (Dirk)
-* 10:00-12:00 Mousetrap R package introduction (1h) + practical (1h) (Pascal)
-  * Data import
-  * Preprocessing
-  * Inspecting data
-  * Trial-level indices
-  * Temporal analyses
-* 13:00-14:30 Visualizations (30min) + practical (1h) (Pascal)
-  * Aggregate trajectories
-  * Riverbed
-  * Heatmaps
-* 14:30-16:00 Trajectory types (30min) + practical (1h) (Dirk)
-  * Clustering
-  * Prototypes
-  
-  Dirk's slides can be found [here](https://dwulff.github.io/EADM_SS2018/)
+* 10:00-12:00 Preprocessing and curvature analyses (Pascal)
+* 13:00-14:00 Work on projects
+* 14:00-14:30 Additional indices and analyses (Pascal)
+* 14:30-16:00 Trajectory types (Dirk)
