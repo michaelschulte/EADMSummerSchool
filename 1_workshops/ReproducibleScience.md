@@ -7,6 +7,7 @@ Growing numbers of researchers share their data and study materials on public re
 The goal of this workshop is to show how we can future-proof our research with transparent, reproducible methods, leading to results with a low risk of fooling ourselves and others.
 We will first take a brief look at the causes of the replication crisis and then cover the basics of preregistration, data sharing, and reproducible analyses, including an introduction to the [Open Science Framework](http://osf.io) (OSF). Participants will gain basic knowledge of open science practices and associated techniques and tools to make their own research more transparent and reproducible.
 
+### Link to slides and workshop materials: https://osf.io/3k5cx/
 
 ### Helpful links: 
 - [how-to-open.science](https://how-to-open.science/): A great collection of resources on all things open science
